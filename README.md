@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Andres Felipe
-- 👀 I'm new and I'll be catching up
+# Hello I'm Andres Felipe Romero
 
 <!---
 AndresFelipeRomero/AndresFelipeRomero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
