@@ -1,17 +1,39 @@
-# Hello
+# Hello![saludo](img/saludo.png)
 
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="#7f5345" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <circle cx="12" cy="7" r="4" />
-  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
-</svg> I'm Andres Felipe Romero
+![persona](img/persona.png) I'm Andres Felipe Romero
 
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-notebook" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M6 4h11a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-11a1 1 0 0 1 -1 -1v-14a1 1 0 0 1 1 -1m3 0v18" />
-  <line x1="13" y1="8" x2="15" y2="8" />
-  <line x1="13" y1="12" x2="15" y2="12" />
-</svg> Technology in sytems in process
+![grado](img/grado.png) Technology in sytems in process
+<img align='right' src=img/logo.png width='250"'>
+
+## **knowledge in:**
+
+**Lenguajes**
+
+- ![java](img/java.png) Java
+- ![c++](img/c++.png) C++
+- ![python](img/python.png) Python
+
+**Database**
+
+- ![sql](img/sql.png) sql (witch MySql)
+
+**Web in process**
+
+- ![html](img/html.png) Html
+- ![css](img/css.png) Css
+- ![javascript](img/javascript.png) JavaScript
+
+## **Interest:**
+
+- ![aprender](img/aprender.png) Learn
+- ![web](img/web.png) Web development
+- ![comunidad](img/comunidad.png) Be part of the community
+- ![compartir](img/compartir.png) Share knowledge
+- ![projects](img/proyecto.png) Contribute to projects
+
+---
+
+> My passion for programming is something incredible, every day I learn something new and I strive to learn, I find it very rewarding to collaborate with people for the realization of projects and I find it impressive how with my knowledge and laptop I can solve problems and meet the needs of people.
 
 <!---
 AndresFelipeRomero/AndresFelipeRomero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
