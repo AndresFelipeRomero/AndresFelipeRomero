@@ -3,7 +3,8 @@
 ![persona](img/persona.png) I'm Andres Felipe Romero
 
 ![grado](img/grado.png) Technology in sytems in process
-<img align='right' src=img/logo.png width='250"'>
+<img align='right' src=img/logo.png width='400
+"'>
 
 ## **knowledge in:**
 
