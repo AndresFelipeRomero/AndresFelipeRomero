@@ -8,7 +8,7 @@
 
 ## **knowledge in:**
 
-**Lenguajes**
+**Languages**
 
 - ![java](img/java.png) Java
 - ![c++](img/c++.png) C++
