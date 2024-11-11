@@ -2,7 +2,9 @@
 
 ![persona](img/persona.png) I'm Andres Felipe Romero
 
-![grado](img/grado.png) Technology in sytems in process
+![grado](img/grado.png) Technology In Sytems
+
+![fullStack](img/full-stack.png) Full Stack Web Developer
 <img align='right' src=img/logo.png width='400
 "'>
 
@@ -13,16 +15,35 @@
 - ![java](img/java.png) Java
 - ![c++](img/c++.png) C++
 - ![python](img/python.png) Python
+- ![javascript](img/javascript.png) JavaScript
+
+**Frameworks**
+
+- ![Django](img/Django%202.png) Django
+- ![Django Rest Framework](img/Django.png) Django Rest Framework
+- ![express](img/express%20js.png) Express JS
+- ![react](img/react.png) React
+- ![tailwind](img/tailwind.png) Tailwind CSS
 
 **Database**
 
 - ![sql](img/sql.png) sql (witch MySql)
 
-**Web in process**
+**Web**
 
 - ![html](img/html.png) Html
 - ![css](img/css.png) Css
 - ![javascript](img/javascript.png) JavaScript
+
+**CMS**
+
+- ![wordpress](img/wordpress.png) Wordpress
+
+**Others**
+
+- ![github](img/git.png) Git - GitHub
+- ![notion](img/notion.png) Notion
+- ![figma](img/figma.png) Figma
 
 ## **Interest:**
 
