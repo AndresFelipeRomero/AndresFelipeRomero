@@ -5,7 +5,7 @@
 ![grado](img/grado.png) Technology In Sytems
 
 ![fullStack](img/full-stack.png) Full Stack Web Developer
-<img align='right' src=img/logo.png width='400
+<img align='right' style="margin-top: 200px;" src=img/logo.png width='400
 "'>
 
 ## **knowledge in:**
